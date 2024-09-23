@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/4acc69fa-6d26-44fa-b011-ba02d75be7bf)
+<img src="https://github.com/user-attachments/assets/4acc69fa-6d26-44fa-b011-ba02d75be7bf" alt="github-header-image" width="900">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakmali100&label=Profile%20views&color=0e75b6&style=flat" alt="dipakmali100" /> </p>
 
