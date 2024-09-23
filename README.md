@@ -7,13 +7,11 @@
 
 - 🔭 I’m currently working on [Realtime Chat App](https://github.com/Dipakmali100/chat-app)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dipakmali100](https://github.com/Dipakmali100)
-
 - 💬 Ask me about **MERN Stack, NextJS,and DevOps**
 
 - 📫 How to reach me **malidipakb2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VnrKb5yPaMMlKVJZ_7hO4z9raYvGP64x/view?usp=sharing](https://drive.google.com/file/d/1VnrKb5yPaMMlKVJZ_7hO4z9raYvGP64x/view?usp=sharing)
+- 📄 Know about my experiences [Click here for resume](https://drive.google.com/file/d/1VnrKb5yPaMMlKVJZ_7hO4z9raYvGP64x/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
