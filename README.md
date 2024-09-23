@@ -9,15 +9,15 @@
 
 <!--<p align="left"> <a href="https://twitter.com/dipakmali100" target="blank"><img src="https://img.shields.io/twitter/follow/dipakmali100?logo=twitter&style=for-the-badge" alt="dipakmali100" /></a> </p>-->
 
-- 🔭 I’m currently working on [Realtime Chat App](https://github.com/Dipakmali100/chat-app)
+- 🔭 I’m a **Full Stack Web Developer** with a strong passion for coding.
 
-- 💬 Ask me about **MERN Stack, NextJS,and DevOps**
+- 💻 I bring over a year of experience as a **Full Stack Developer**, **Tech Lead**, and **Project Manager**.
 
-- 📫 How to reach me **malidipakb2002@gmail.com**
+- 🚀 I love creating innovative projects that push boundaries.
 
-- 📄 Know about my experiences [Click here for resume](https://drive.google.com/file/d/1VnrKb5yPaMMlKVJZ_7hO4z9raYvGP64x/view?usp=sharing)
+- 📧 Feel free to reach out: **malidipakb2002@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
 <a href="https://twitter.com/dipakmali100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipakmali100" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dipakmali100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipakmali100" height="30" width="40" /></a>
