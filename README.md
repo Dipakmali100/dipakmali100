@@ -35,4 +35,4 @@ I work with:<br/>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipakmali100&show_icons=true&locale=en" alt="dipakmali100" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipakmali100&" alt="dipakmali100" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipakmali100&" alt="dipakmali100" /></p>-->
